@@ -1,0 +1,24 @@
+        <div class="container" style="max-width: 800px;">
+          <div class="columns is-multiline is-mobile">
+            <div class="column is-half-mobile is-one-quarter-desktop" style="padding: 3px;">
+              <div class="box" style="padding: 50px 25px; font-size: clamp(16px, 2.5vw, 23px);
+              font-weight: bold;">Front-End</div>
+            </div>
+            <div class="column is-half-mobile is-one-quarter-desktop" style="padding: 3px;">
+              <div class="box" style="padding: 50px 25px; font-size: clamp(16px, 2.5vw, 23px);
+              font-weight: bold;">Back-End</div>
+            </div>
+            <div class="column is-half-mobile is-one-quarter-desktop" style="padding: 3px;">
+              <div class="box" style="padding: 50px 25px; font-size: clamp(16px, 2.5vw, 23px);
+               font-weight: bold;">Ui Design</div>
+            </div>
+            <div class="column is-half-mobile is-one-quarter-desktop" style="padding: 3px;">
+              <div class="box" style="padding: 50px 25px; font-size: clamp(16px, 2.5vw, 23px);
+              font-weight: bold;">Editing</div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Hindi ito gagana kung hindi mo pa nalalagay yung link nung Bulma css -->
+        <!-- Maganda Gamitin ito sa Section -->
+        <!-- Source Code Created by Reu James B. Acuesta -->
